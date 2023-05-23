@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#F6F6F6</color>
+    <color name="primaryColor">#B388FF</color>
+    <color name="backgroundColor">#BBB3B3</color>
+    <color name="editTextBackground">#F3F3F3</color>
+    <color name="textColorPrimary">#212121</color>
+    <color name="textColorHint">#757575</color>
+    <color name="textColorHighlight">#BDBDBD</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="secondaryColor">#FF4081</color>
+</resources>
